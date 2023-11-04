@@ -1,3 +1,2 @@
-def run_length_encoding(input_string):
-    encoding = ''
-    i = 0
+while i < len(input_string):
+        count = 1
